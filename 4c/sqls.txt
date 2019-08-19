@@ -1,0 +1,17 @@
+
+=======================
+C:\Users\chenn>cd \xampp\mysql\bin
+
+C:\xampp\mysql\bin>mysql --user=root --password=watermelon
+===================================
+
+
+create database forese;
+
+use database forese;
+
+CREATE TABLE Results (
+    register_no int,
+    score int
+);
+
